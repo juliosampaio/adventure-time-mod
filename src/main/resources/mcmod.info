@@ -1,0 +1,16 @@
+[
+{
+  "modid": "adventuretime",
+  "name": "Adventure Time Mod",
+  "description": "A personal minecraft mod that is mathematical!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["juliosampa"],
+  "credits": "The Forge and FML guys, for making this example. The Adventure Time cartoon series creators",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
