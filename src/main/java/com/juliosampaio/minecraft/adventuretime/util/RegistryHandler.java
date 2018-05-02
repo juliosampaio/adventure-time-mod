@@ -1,6 +1,6 @@
 package com.juliosampaio.minecraft.adventuretime.util;
 
-import com.juliosampaio.minecraft.adventuretime.entity.ModeEntities;
+import com.juliosampaio.minecraft.adventuretime.entity.ModEntities;
 import com.juliosampaio.minecraft.adventuretime.item.IHasModel;
 import com.juliosampaio.minecraft.adventuretime.item.ModItems;
 
@@ -28,7 +28,7 @@ public class RegistryHandler {
 	}
 	
 	public static void preInitRegistries() {
-		ModeEntities.registerEntities();
+		ModEntities.registerEntities();
 		RenderHandler.registerEntityRenders();
 	}
 	
